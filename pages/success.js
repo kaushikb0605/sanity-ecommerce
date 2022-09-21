@@ -24,7 +24,7 @@ const Success = () => {
           <BsBagCheckFill />          
         </p>
         <h2>Thank you for your order!</h2>
-        <p className='email-msg'>Your food is being prepared. Until then enjoy the ambience</p>
+        <p className='email-msg'>Your order is being prepared. Until then check out our other products</p>
         <p className='description'>
           If you want to tell us something. Feel free to call us
         </p>
